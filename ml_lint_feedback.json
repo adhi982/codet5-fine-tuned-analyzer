@@ -1,0 +1,10 @@
+[
+  {
+    "issue_id": "test_issue_123",
+    "developer_id": "test_developer",
+    "action": "accepted",
+    "feedback": "This was a good catch!",
+    "timestamp": "2025-07-04T17:14:16.647286",
+    "fix_applied": "Removed hardcoded password"
+  }
+]

@@ -1,0 +1,46 @@
+# Core ML libraries
+torch>=2.0.0
+transformers>=4.30.0
+datasets>=2.10.0
+tokenizers>=0.13.0
+accelerate>=0.20.0
+
+# Evaluation metrics
+evaluate>=0.4.0
+rouge-score>=0.1.2
+sacrebleu>=2.3.0
+
+# Logging and monitoring
+wandb>=0.15.0
+tensorboard>=2.13.0
+
+# Data processing
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Web framework and HTTP requests
+flask>=2.3.0
+requests>=2.31.0
+
+# Code analysis and quality tools
+ast-tools>=0.1.0
+
+# File and path operations
+pathlib2>=2.3.7
+
+# Development and testing tools
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Utility libraries
+tqdm>=4.65.0
+scikit-learn>=1.3.0
+colorama>=0.4.6
+
+# Optional workflow integration dependencies
+# Uncomment if using specific integrations:
+# python-dotenv>=1.0.0  # For environment variable management
+# gitpython>=3.1.0      # For Git integration
+# pyyaml>=6.0          # For YAML configuration files
+# jinja2>=3.1.0        # For template rendering
+# click>=8.1.0         # For CLI applications
